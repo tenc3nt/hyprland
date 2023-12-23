@@ -1,1 +1,1 @@
-# hyprland
+# hust nothing
